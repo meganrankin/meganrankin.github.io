@@ -7,3 +7,7 @@ I am from Middletown, New Jersey and currently a Junior at Lehigh University maj
 [Linkedin](https://www.linkedin.com/in/megan-rankin-24134b12a/)
 
 ![AboutMe](http://www.awfireworks.com/wp-content/uploads/2018/04/THUMBNAIL_Fotolia_124863579_Subscription_Monthly_M.jpg)
+
+## 2017 Lehigh University Enrollment Data
+
+
