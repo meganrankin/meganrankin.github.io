@@ -20,9 +20,11 @@ This bar chart was made using Data Wrapper.
 This line chart was made using Data Wrapper.
 <iframe title="Chart: College Enrollment at Lehigh University 2008-2017" aria-describedby="Comparing the enrollment between Lehigh University's three colleges. " id="datawrapper-chart-q1uqx" src="//datawrapper.dwcdn.net/q1uqx/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
 
-This bar chart was made using Data Wrapper. 
-
-How has the way consumers listen to music changed over the years? This graph analyzes the various ways consumers listen to music and shows patterns throughout the years. It is clear that CDs were the most popular way to listen to music 10 years ago but now subscription streaming services have taken over. 
 
 
 <iframe title="Chart: Ways Consumers Listen to Music&amp;nbsp;" aria-describedby="" id="datawrapper-chart-x598P" src="//datawrapper.dwcdn.net/x598P/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="497"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
+
+
+This bar chart was made using Data Wrapper. 
+
+How has the way consumers listen to music changed over the years? This graph analyzes the various ways consumers listen to music and shows patterns throughout the years. It is clear that CDs were the most popular way to listen to music 10 years ago but now subscription streaming services have taken over. 
