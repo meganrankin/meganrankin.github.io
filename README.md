@@ -56,4 +56,3 @@ US Music Sales by Genre
 
 
 [Tableau](https://public.tableau.com/views/USMusicSalesbyGenre/Dashboard1?:embed=y&:display_count=yes&publish=yes)
-[Tableau](https://public.tableau.com/views/USMusicSalesbyGenre/Dashboard1?:embed=y&:display_count=yes&publish=yes)
