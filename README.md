@@ -49,6 +49,8 @@ Used Parse Hub to scrape data and then used Data Wrapper to create a visualizati
 ## Tableau 
 
 US Music Sales by Genre
+
+
 Tweets from all over the US using the #Music 
 
 
