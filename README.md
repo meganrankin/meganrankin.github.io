@@ -80,7 +80,7 @@ Tweets from all over the US using the #Music
 
 ## Testing
 
-[Tableau](https://public.tableau.com/views/USMusicSalesbyGenre/Dashboard1?:embed=y&:display_count=yes&publish=yes)
+[Tableau](https://public.tableau.com/views/digitalvsphysical/Dashboard2?:embed=y&:display_count=yes&publish=yes&:showVizHome=no)
 
 [Tableau](https://public.tableau.com/views/digitalvsphysical/Dashboard1?:embed=y&:display_count=yes&publish=yes&:showVizHome=no)
 
